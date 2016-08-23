@@ -10,3 +10,15 @@ E:\TeamProject\Store\Repository\bin\Debug\EntityFramework.SqlServer.xml
 E:\TeamProject\Store\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
 E:\TeamProject\Store\Repository\obj\Debug\Repository.dll
 E:\TeamProject\Store\Repository\obj\Debug\Repository.pdb
+F:\Github\Store\Repository\bin\Debug\Repository.dll.config
+F:\Github\Store\Repository\bin\Debug\Repository.dll
+F:\Github\Store\Repository\bin\Debug\Repository.pdb
+F:\Github\Store\Repository\bin\Debug\DataAccess.dll
+F:\Github\Store\Repository\bin\Debug\EntityFramework.dll
+F:\Github\Store\Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Github\Store\Repository\bin\Debug\DataAccess.pdb
+F:\Github\Store\Repository\bin\Debug\EntityFramework.xml
+F:\Github\Store\Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Github\Store\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\Github\Store\Repository\obj\Debug\Repository.dll
+F:\Github\Store\Repository\obj\Debug\Repository.pdb

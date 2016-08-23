@@ -8,3 +8,13 @@ E:\TeamProject\Store\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
 E:\TeamProject\Store\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 E:\TeamProject\Store\DataAccess\obj\Debug\DataAccess.dll
 E:\TeamProject\Store\DataAccess\obj\Debug\DataAccess.pdb
+F:\Github\Store\DataAccess\bin\Debug\DataAccess.dll.config
+F:\Github\Store\DataAccess\bin\Debug\DataAccess.dll
+F:\Github\Store\DataAccess\bin\Debug\DataAccess.pdb
+F:\Github\Store\DataAccess\bin\Debug\EntityFramework.dll
+F:\Github\Store\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\Github\Store\DataAccess\bin\Debug\EntityFramework.xml
+F:\Github\Store\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\Github\Store\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\Github\Store\DataAccess\obj\Debug\DataAccess.dll
+F:\Github\Store\DataAccess\obj\Debug\DataAccess.pdb

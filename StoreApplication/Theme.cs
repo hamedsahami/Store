@@ -16,5 +16,10 @@ namespace StoreApplication
         {
             InitializeComponent();
         }
+
+        private void Theme_Load(object sender, EventArgs e)
+        {
+            //mehrnaz
+        }
     }
 }

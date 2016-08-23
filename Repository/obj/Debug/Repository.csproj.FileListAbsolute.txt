@@ -1,0 +1,12 @@
+E:\TeamProject\Store\Repository\bin\Debug\Repository.dll.config
+E:\TeamProject\Store\Repository\bin\Debug\Repository.dll
+E:\TeamProject\Store\Repository\bin\Debug\Repository.pdb
+E:\TeamProject\Store\Repository\bin\Debug\DataAccess.dll
+E:\TeamProject\Store\Repository\bin\Debug\EntityFramework.dll
+E:\TeamProject\Store\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\TeamProject\Store\Repository\bin\Debug\DataAccess.pdb
+E:\TeamProject\Store\Repository\bin\Debug\EntityFramework.xml
+E:\TeamProject\Store\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\TeamProject\Store\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\TeamProject\Store\Repository\obj\Debug\Repository.dll
+E:\TeamProject\Store\Repository\obj\Debug\Repository.pdb
